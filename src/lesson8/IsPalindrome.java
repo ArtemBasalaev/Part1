@@ -20,28 +20,25 @@ public class IsPalindrome {
         }
 
         for (int i = 0, j = string.length() - 1; i < j; i++, j--) {
-            char firstLetter = string.charAt(i);
-            char lastLetter = string.charAt(j);
+            char leftSymbol = string.charAt(i);
+            char rightSymbol = string.charAt(j);
 
-            while (!Character.isLetter(firstLetter)) {
+            while (!Character.isLetter(leftSymbol)) {
                 i++;
 
-                if (i == string.length()) {
+                if (i == string.length() - 1) {
                     return true;
                 }
 
-                firstLetter = string.charAt(i);
+                leftSymbol = string.charAt(i);
             }
 
-            while (!Character.isLetter(lastLetter)) {
+            while (!Character.isLetter(rightSymbol)) {
                 j--;
-                lastLetter = string.charAt(j);
+                rightSymbol = string.charAt(j);
             }
 
-            firstLetter = Character.toLowerCase(firstLetter);
-            lastLetter = Character.toLowerCase(lastLetter);
-
-            if (firstLetter != lastLetter) {
+            if (Character.toLowerCase(leftSymbol) != Character.toLowerCase(rightSymbol)) {
                 return false;
             }
         }
