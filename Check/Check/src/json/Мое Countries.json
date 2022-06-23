@@ -1,0 +1,71 @@
+[
+  {
+    "nameInEnglish": "Russia",
+    "nameInRussian": "Россия",
+    "countryCode": 643,
+    "currencyCode": 643,
+    "cities": [
+      {
+        "nameInEnglish": "Moscow",
+        "nameInRussian": "Москва",
+        "population": 12655000
+      },
+      {
+        "nameInEnglish": "Saint Petersburg",
+        "nameInRussian": "Санк-Петербург",
+        "population": 5384000
+      },
+      {
+        "nameInEnglish": "Novosibirsk",
+        "nameInRussian": "Новосибирск",
+        "population": 1626000
+      }
+    ]
+  },
+  {
+    "nameInEnglish": "United Kingdom",
+    "nameInRussian": "Великобритания",
+    "countryCode": 826,
+    "currencyCode": 826,
+    "cities": [
+      {
+        "nameInEnglish": "London",
+        "nameInRussian": "Лондон",
+        "population": 10979000
+      },
+      {
+        "nameInEnglish": "Manchester",
+        "nameInRussian": "Манчестер",
+        "population": 2727000
+      },
+      {
+        "nameInEnglish": "Glasgow",
+        "nameInRussian": "Глазго",
+        "population": 1259000
+      }
+    ]
+  },
+  {
+    "nameInEnglish": "France",
+    "nameInRussian": "Франция",
+    "countryCode": 250,
+    "currencyCode": 978,
+    "cities": [
+      {
+        "nameInEnglish": "Paris",
+        "nameInRussian": "Париж",
+        "population": 2187526
+      },
+      {
+        "nameInEnglish": "Marseille",
+        "nameInRussian": "Марсель",
+        "population": 868277
+      },
+      {
+        "nameInEnglish": "Lyon",
+        "nameInRussian": "Лион",
+        "population": 516092
+      }
+    ]
+  }
+]

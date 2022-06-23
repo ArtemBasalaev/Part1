@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+    <country code="643">
+        <nameInEnglish>Russia</nameInEnglish>
+        <nameInRussian>Россия</nameInRussian>
+        <currencyCode>643</currencyCode>
+        <cities>
+            <city>
+                <nameInEnglish>Moscow</nameInEnglish>
+                <nameInRussian>Москва</nameInRussian>
+                <population>12655000</population>
+            </city>
+            <city>
+                <nameInEnglish>Saint Petersburg</nameInEnglish>
+                <nameInRussian>Санк-Петербург</nameInRussian>
+                <population>5384000</population>
+            </city>
+            <city>
+                <nameInEnglish>Novosibirsk</nameInEnglish>
+                <nameInRussian>Новосибирск</nameInRussian>
+                <population>1626000</population>
+            </city>
+        </cities>
+    </country>
+    <country code="826">
+        <nameInEnglish>United Kingdom</nameInEnglish>
+        <nameInRussian>Великобритания</nameInRussian>
+        <currencyCode>826</currencyCode>
+        <cities>
+            <city>
+                <nameInEnglish>London</nameInEnglish>
+                <nameInRussian>Лондон</nameInRussian>
+                <population>10979000</population>
+            </city>
+            <city>
+                <nameInEnglish>Manchester</nameInEnglish>
+                <nameInRussian>Манчестер</nameInRussian>
+                <population>2727000</population>
+            </city>
+            <city>
+                <nameInEnglish>Glasgow</nameInEnglish>
+                <nameInRussian>Глазго</nameInRussian>
+                <population>1259000</population>
+            </city>
+        </cities>
+    </country>
+    <country code="250">
+        <nameInEnglish>France</nameInEnglish>
+        <nameInRussian>Франция</nameInRussian>
+        <currencyCode>978</currencyCode>
+        <cities>
+            <city>
+                <nameInEnglish>Paris</nameInEnglish>
+                <nameInRussian>Париж</nameInRussian>
+                <population>2187526</population>
+            </city>
+            <city>
+                <nameInEnglish>Marseille</nameInEnglish>
+                <nameInRussian>Марсель</nameInRussian>
+                <population>868277</population>
+            </city>
+            <city>
+                <nameInEnglish>Lyon</nameInEnglish>
+                <nameInRussian>Лион</nameInRussian>
+                <population>516092</population>
+            </city>
+        </cities>
+    </country>
+</countries>

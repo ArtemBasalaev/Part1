@@ -15,9 +15,9 @@ public class IsPalindrome {
     }
 
     public static boolean isPalindrome(String string) {
-        if (string.length() == 0) {
+        /*if (string.length() == 0) {
             return true;
-        }
+        }*/ // Можно отдельно не проверять пустую строку
 
         for (int i = 0, j = string.length() - 1; i < j; i++, j--) {
             char leftSymbol = string.charAt(i);
